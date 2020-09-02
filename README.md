@@ -1,5 +1,15 @@
 # Buchvorlage
 
+# Vivliostyle 2.1.1
+
+Webbuch: https://akademie-oeffentliches-gesundheitswesen.github.io/Buchvorlage/vivliostyle/#src=../webbuch/&bookMode=true&
+
+From here: https://akademie-oeffentliches-gesundheitswesen.github.io/Buchvorlage/vivliostyle/
+
+add unzipped EPUB by pasting in ../webbuch/
+
+Note: /vivliostyle and /webbuch are on the same directory level
+
 # Running Jekyll locally
 
 Follow the instructions here https://docs.github.com/en/enterprise/2.14/user/articles/setting-up-your-github-pages-site-locally-with-jekyll
